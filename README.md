@@ -17,3 +17,4 @@ Then afterwards if you would like to get absolutly abliterated by it you may run
 
 The modes are True and False. 
 True means it mutates the loser and False means it replaces the loser with a mutation of the winner. 
+![qrcode (1)](https://user-images.githubusercontent.com/74012856/180083390-cc378248-16ea-4448-ad51-c6c1ffbc7dd0.png)
